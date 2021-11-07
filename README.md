@@ -6,8 +6,8 @@ An Express server that implements Basic Authentication, with sign-up (`/sign-up`
 
 ## Links
 
-* Heroku:
-* Pull Request:
+* Heroku: https://hasnaa-basic-auth.herokuapp.com/
+* Pull Request: https://github.com/hasnaa38/basic-auth/pull/1
 
 ## Endpoint Results
 

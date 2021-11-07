@@ -6,22 +6,22 @@ An Express server that implements Basic Authentication, with sign-up (`/sign-up`
 
 ## Links
 
-* Heroku: https://hasnaa-basic-auth.herokuapp.com/
+* Heroku: https://hasnaa-basic-auth-2.herokuapp.com/
 * Pull Request: https://github.com/hasnaa38/basic-auth/pull/1
 
 ## Endpoint Results
 
 * using the `/sign-up` endpoint:
-![test1](./images/test1.PNG)
+![test1](./images/test11.PNG)
 
 * using the `/sing-in` endpoint:
-![test2](./images/test2.PNG)
+![test2](./images/test22.PNG)
 
 * using the `/sing-in` endpoint with incorrect password:
-![test3](./images/test3.PNG)
+![test3](./images/test33.PNG)
 
 * signing-in for unexcited account:
-![test4](./images/test4.PNG)
+![test4](./images/test44.PNG)
 
 ## UML
 
